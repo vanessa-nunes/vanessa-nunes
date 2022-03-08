@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:--!>
 
-- 🔭  <br>
-- 🌱 <br>
+- 😀 Bem vindo !<br> <br>
+<!--
+- 🔭 <br>
+- 🌱 <br> --!>
 
 <div align="center">
   <a href="https://github.com/vanessa-nunes">
@@ -18,6 +20,7 @@ Here are some ideas to get you started:--!>
   <img align="center" alt="van-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="van-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="van-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!--<img align="center" alt="van-POSTGRESQL" height="20" width="80" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">--!>
 
 </div>
 <br>
